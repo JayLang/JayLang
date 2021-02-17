@@ -1,2 +1,2 @@
 # JayLang
-JayLang is a scripting language written in Python
+JayLang is an embeddable scripting language for .NET written in F#
